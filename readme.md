@@ -1,0 +1,1 @@
+For this project, I will be creating a simple website using basic HTML to demonstrate what I have learned with HTML. 
